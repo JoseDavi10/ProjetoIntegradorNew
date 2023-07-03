@@ -1,0 +1,11 @@
+#horas{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    display: block;
+    background-color: #fc4311;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+#horas h2{
+    color: white;
+}
